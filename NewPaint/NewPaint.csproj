@@ -104,5 +104,62 @@
   <ItemGroup>
     <None Include="Resources\free-icon-loupe-9709589.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-paste-clipboard-11750666.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-paste-clipboard-11750666 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-copy-5304321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-scissor-5073521.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-highlight-9147720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-highlight-9147720 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-crop-3342178.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-increase-size-option-25390.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-rotate-right-4674415.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-line-segemnt-16118102.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-rectangle-274397.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-right-triangle-15735553.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-triangle-14091136.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-geometric-14813902.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-priority-6742340.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-squares-14254310.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-trapezium-649734.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-pencil-on-a-square-outline-44843.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-fill-color-2708370.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -19,7 +19,7 @@ namespace NewPaint.Properties {
     // с помощью такого средства, как ResGen или Visual Studio.
     // Чтобы добавить или удалить член, измените файл .ResX и снова запустите ResGen
     // с параметром /str или перестройте свой проект VS.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "18.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -73,6 +73,26 @@ namespace NewPaint.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap free_icon_copy_5304321 {
+            get {
+                object obj = ResourceManager.GetObject("free-icon-copy-5304321", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap free_icon_crop_3342178 {
+            get {
+                object obj = ResourceManager.GetObject("free-icon-crop-3342178", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap free_icon_eraser_1076334 {
             get {
                 object obj = ResourceManager.GetObject("free-icon-eraser-1076334", resourceCulture);
@@ -86,6 +106,16 @@ namespace NewPaint.Properties {
         internal static System.Drawing.Bitmap free_icon_eraser_10763341 {
             get {
                 object obj = ResourceManager.GetObject("free-icon-eraser-10763341", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap free_icon_fill_color_2708370 {
+            get {
+                object obj = ResourceManager.GetObject("free-icon-fill-color-2708370", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,6 +143,56 @@ namespace NewPaint.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap free_icon_geometric_14813902 {
+            get {
+                object obj = ResourceManager.GetObject("free-icon-geometric-14813902", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap free_icon_highlight_9147720 {
+            get {
+                object obj = ResourceManager.GetObject("free-icon-highlight-9147720", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap free_icon_highlight_9147720__1_ {
+            get {
+                object obj = ResourceManager.GetObject("free-icon-highlight-9147720 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap free_icon_increase_size_option_25390 {
+            get {
+                object obj = ResourceManager.GetObject("free-icon-increase-size-option-25390", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap free_icon_line_segemnt_16118102 {
+            get {
+                object obj = ResourceManager.GetObject("free-icon-line-segemnt-16118102", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap free_icon_loupe_9709589 {
             get {
                 object obj = ResourceManager.GetObject("free-icon-loupe-9709589", resourceCulture);
@@ -133,9 +213,119 @@ namespace NewPaint.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap free_icon_paste_clipboard_11750666 {
+            get {
+                object obj = ResourceManager.GetObject("free-icon-paste-clipboard-11750666", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap free_icon_paste_clipboard_11750666__1_ {
+            get {
+                object obj = ResourceManager.GetObject("free-icon-paste-clipboard-11750666 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap free_icon_pencil_2956842 {
             get {
                 object obj = ResourceManager.GetObject("free-icon-pencil-2956842", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap free_icon_pencil_on_a_square_outline_44843 {
+            get {
+                object obj = ResourceManager.GetObject("free-icon-pencil-on-a-square-outline-44843", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap free_icon_priority_6742340 {
+            get {
+                object obj = ResourceManager.GetObject("free-icon-priority-6742340", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap free_icon_rectangle_274397 {
+            get {
+                object obj = ResourceManager.GetObject("free-icon-rectangle-274397", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap free_icon_right_triangle_15735553 {
+            get {
+                object obj = ResourceManager.GetObject("free-icon-right-triangle-15735553", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap free_icon_rotate_right_4674415 {
+            get {
+                object obj = ResourceManager.GetObject("free-icon-rotate-right-4674415", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap free_icon_scissor_5073521 {
+            get {
+                object obj = ResourceManager.GetObject("free-icon-scissor-5073521", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap free_icon_squares_14254310 {
+            get {
+                object obj = ResourceManager.GetObject("free-icon-squares-14254310", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap free_icon_trapezium_649734 {
+            get {
+                object obj = ResourceManager.GetObject("free-icon-trapezium-649734", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap free_icon_triangle_14091136 {
+            get {
+                object obj = ResourceManager.GetObject("free-icon-triangle-14091136", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

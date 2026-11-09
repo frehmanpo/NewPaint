@@ -118,28 +118,85 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="free-icon-eraser-10763341" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\free-icon-eraser-10763341.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="free-icon-fill-color-3964822" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\free-icon-fill-color-3964822.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="free-icon-eraser-1076334" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\free-icon-eraser-1076334.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="free-icon-font-symbol-of-letter-a-25645" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\free-icon-font-symbol-of-letter-a-25645.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="free-icon-trapezium-649734" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-trapezium-649734.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="2fd1cc957fe149619c0eb30dc7c95a42" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\2fd1cc957fe149619c0eb30dc7c95a42.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="free-icon-pencil-2956842" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\free-icon-pencil-2956842.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="free-icon-highlight-9147720" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-highlight-9147720.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-triangle-14091136" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-triangle-14091136.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-geometric-14813902" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-geometric-14813902.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-paste-clipboard-11750666" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-paste-clipboard-11750666.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-squares-14254310" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-squares-14254310.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-crop-3342178" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-crop-3342178.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-increase-size-option-25390" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-increase-size-option-25390.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-eraser-1076334" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-eraser-1076334.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-loupe-9709589" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-loupe-9709589.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="free-icon-paint-palette-5886212" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\free-icon-paint-palette-5886212.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="free-icon-loupe-9709589" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\free-icon-loupe-9709589.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="free-icon-font-symbol-of-letter-a-25645" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-font-symbol-of-letter-a-25645.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-fill-color-3964822" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-fill-color-3964822.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-line-segemnt-16118102" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-line-segemnt-16118102.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-right-triangle-15735553" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-right-triangle-15735553.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-paste-clipboard-11750666 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-paste-clipboard-11750666 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-eraser-10763341" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-eraser-10763341.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-highlight-9147720 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-highlight-9147720 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-rectangle-274397" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-rectangle-274397.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-rotate-right-4674415" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-rotate-right-4674415.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-pencil-2956842" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-pencil-2956842.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-pencil-on-a-square-outline-44843" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-pencil-on-a-square-outline-44843.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-priority-6742340" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-priority-6742340.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-scissor-5073521" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-scissor-5073521.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-copy-5304321" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-copy-5304321.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-fill-color-2708370" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-fill-color-2708370.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
