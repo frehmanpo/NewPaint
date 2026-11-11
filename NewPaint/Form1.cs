@@ -13,9 +13,16 @@ namespace NewPaint
 {
     public partial class Form1 : Form
     {
+        Graphics g;
+        Pen pen = new Pen(Color.FromArgb(10, 200, 200), 20);
+        bool isDraiving = false;
+        Point fromP;
+        Point toP;
+
         public Form1()
         {
             InitializeComponent();
+        
         }
 
         private void trackBar1_Scroll(object sender, EventArgs e)
@@ -105,6 +112,17 @@ namespace NewPaint
         }
 
         private void panel8_Paint(object sender, PaintEventArgs e)
+        {
+            g = panel8.CreateGraphics();
+
+            Pen pen = new Pen(Color.FromArgb(10, 200, 200), 20);
+            Point fromP = new Point(100, 100);
+            Point toP = new Point(500, 500);
+
+            g.DrawLine(pen, fromP, toP);
+        }
+
+        private void button7_Click(object sender, EventArgs e)
         {
 
         }
